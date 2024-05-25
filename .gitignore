@@ -1,0 +1,11 @@
+# ide
+.env
+.vscode
+
+# go
+/frontier
+
+# other
+dist/
+.env
+.vscode
