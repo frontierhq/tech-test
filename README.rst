@@ -1,8 +1,3 @@
-.. image:: https://pkg.go.dev/badge/github.com/gofrontier-com/frontier.svg
-    :target: https://pkg.go.dev/github.com/gofrontier-com/frontier
-.. image:: https://github.com/gofrontier-com/frontier/actions/workflows/ci.yml/badge.svg
-    :target: https://github.com/gofrontier-com/frontier/actions/workflows/ci.yml
-
 =======
 Frontier
 =======
