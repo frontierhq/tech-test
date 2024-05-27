@@ -34,4 +34,4 @@ The command should print the current temperature in the city to the console. Uni
 Contributing
 ------------
 
-We welcome contributions to this repository. Please see `CONTRIBUTING.md <https://github.com/gofrontier-com/frontier/tree/main/CONTRIBUTING.md>`_ for more information.
+We welcome contributions to this repository. Please see `CONTRIBUTING.md <https://github.com/frontierhq/tech-test/tree/main/CONTRIBUTING.md>`_ for more information.

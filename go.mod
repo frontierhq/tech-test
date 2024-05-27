@@ -1,6 +1,6 @@
 module github.com/gofrontier-com/frontier
 
-go 1.20
+go 1.21
 
 require github.com/spf13/cobra v1.6.1
 
